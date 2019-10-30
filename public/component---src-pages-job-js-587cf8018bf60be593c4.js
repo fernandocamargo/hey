@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{1283:function(e,n,t){"use strict";t.r(n);var a=t(0),o=t.n(a),p=function(){return o.a.createElement("p",null,"Some page")};p.defaultProps={},n.default=p}}]);
+//# sourceMappingURL=component---src-pages-job-js-587cf8018bf60be593c4.js.map

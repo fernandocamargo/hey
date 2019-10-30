@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/components/pages/404.js"],"names":["NotFound"],"mappings":"0FAAA,oBAEeA,YAAf","file":"component---src-components-pages-404-js-5d3d26ed37c5669f1b0c.js","sourcesContent":["import NotFound from './404';\n\nexport default NotFound;\n"],"sourceRoot":""}
