@@ -6,7 +6,7 @@
   "author": "Fernando Camargo <camargodelbuono@gmail.com>",
   "dependencies": {
     "babel-plugin-styled-components": "^1.10.6",
-    "gatsby": "^2.16.1",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-page-creator": "^2.1.27",
     "gatsby-plugin-prefetch-google-fonts": "^1.4.3",
     "gatsby-plugin-react-helmet": "^3.1.13",
